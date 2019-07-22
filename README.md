@@ -122,8 +122,4 @@ In the update function, we add or update the existing objects that are bound to 
 ```
 
 
-## What's next?
-
-
-You can always send issues, feedback, and requests for additional MQTT demos to support@pozyx.io.
 
